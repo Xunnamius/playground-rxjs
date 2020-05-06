@@ -1,0 +1,39 @@
+# Workflow #
+###########
+
+
+# Configuration files #
+###########
+
+
+# Sublime #
+###########
+*.sublime-*
+
+# Logs and Databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Generated Files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+nbproject
+.buildpath
+.idea
+.project
+.settings
+.*.sw*
+.*.un~
+.settings/
+node_modules/
+build/
+tmp/

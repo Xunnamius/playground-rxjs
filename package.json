@@ -1,0 +1,6 @@
+{
+    "name": "rxjs-playground",
+    "dependencies": {
+        "rx": "^4.1.0"
+    }
+}
